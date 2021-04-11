@@ -1,0 +1,2 @@
+com/example/robertus_bffa_1/BuildConfig.java
+ com.example.robertus_bffa_1.BuildConfig
